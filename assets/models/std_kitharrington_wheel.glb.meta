@@ -1,0 +1,75 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "0051b8c1-2f44-447d-8259-3b8d59b1f1c0",
+  "files": [],
+  "subMetas": {
+    "bcb80": {
+      "importer": "gltf-mesh",
+      "uuid": "0051b8c1-2f44-447d-8259-3b8d59b1f1c0@bcb80",
+      "displayName": "",
+      "id": "bcb80",
+      "name": "Whl HD FL.015.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1258
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b6a6": {
+      "importer": "gltf-scene",
+      "uuid": "0051b8c1-2f44-447d-8259-3b8d59b1f1c0@6b6a6",
+      "displayName": "",
+      "id": "6b6a6",
+      "name": "std_kitharrington_wheel.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0051b8c1-2f44-447d-8259-3b8d59b1f1c0@bcb80"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "0051b8c1-2f44-447d-8259-3b8d59b1f1c0@6b6a6"
+      ]
+    }
+  }
+}

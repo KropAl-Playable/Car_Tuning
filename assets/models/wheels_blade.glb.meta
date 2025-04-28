@@ -1,0 +1,75 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "befb28b3-c026-49b8-b90d-6a85ebf403c3",
+  "files": [],
+  "subMetas": {
+    "e8d96": {
+      "importer": "gltf-mesh",
+      "uuid": "befb28b3-c026-49b8-b90d-6a85ebf403c3@e8d96",
+      "displayName": "",
+      "id": "e8d96",
+      "name": "Whl HD FL.005.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 829
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b79b": {
+      "importer": "gltf-scene",
+      "uuid": "befb28b3-c026-49b8-b90d-6a85ebf403c3@5b79b",
+      "displayName": "",
+      "id": "5b79b",
+      "name": "wheels_blade.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "befb28b3-c026-49b8-b90d-6a85ebf403c3@e8d96"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "befb28b3-c026-49b8-b90d-6a85ebf403c3@5b79b"
+      ]
+    }
+  }
+}

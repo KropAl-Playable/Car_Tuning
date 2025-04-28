@@ -1,0 +1,94 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "9c76ccb8-f065-46d8-adbf-e1c38116aff1",
+  "files": [],
+  "subMetas": {
+    "99511": {
+      "importer": "gltf-scene",
+      "uuid": "9c76ccb8-f065-46d8-adbf-e1c38116aff1@99511",
+      "displayName": "",
+      "id": "99511",
+      "name": "garage_building.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39b7c": {
+      "importer": "gltf-mesh",
+      "uuid": "9c76ccb8-f065-46d8-adbf-e1c38116aff1@39b7c",
+      "displayName": "",
+      "id": "39b7c",
+      "name": "Mesh.027.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44833
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8a7b": {
+      "importer": "gltf-mesh",
+      "uuid": "9c76ccb8-f065-46d8-adbf-e1c38116aff1@e8a7b",
+      "displayName": "",
+      "id": "e8a7b",
+      "name": "Mesh.295.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 2171
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9c76ccb8-f065-46d8-adbf-e1c38116aff1@39b7c",
+        "9c76ccb8-f065-46d8-adbf-e1c38116aff1@e8a7b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "9c76ccb8-f065-46d8-adbf-e1c38116aff1@99511"
+      ]
+    }
+  }
+}

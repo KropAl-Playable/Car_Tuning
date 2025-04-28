@@ -1,0 +1,132 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e5ce08e9-ac60-4401-9cc0-122aab36debc",
+  "files": [],
+  "subMetas": {
+    "45fb8": {
+      "importer": "gltf-mesh",
+      "uuid": "e5ce08e9-ac60-4401-9cc0-122aab36debc@45fb8",
+      "displayName": "",
+      "id": "45fb8",
+      "name": "Whl HD FL.004.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 611
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fabf": {
+      "importer": "gltf-mesh",
+      "uuid": "e5ce08e9-ac60-4401-9cc0-122aab36debc@7fabf",
+      "displayName": "",
+      "id": "7fabf",
+      "name": "Whl HD FL.009.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 991
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fce69": {
+      "importer": "gltf-mesh",
+      "uuid": "e5ce08e9-ac60-4401-9cc0-122aab36debc@fce69",
+      "displayName": "",
+      "id": "fce69",
+      "name": "Wheel_lod0.002.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "lodLevel": 0,
+        "triangleCount": 480
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3e3b": {
+      "importer": "gltf-mesh",
+      "uuid": "e5ce08e9-ac60-4401-9cc0-122aab36debc@f3e3b",
+      "displayName": "",
+      "id": "f3e3b",
+      "name": "Wheel_lod0.001.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 266
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "313b3": {
+      "importer": "gltf-scene",
+      "uuid": "e5ce08e9-ac60-4401-9cc0-122aab36debc@313b3",
+      "displayName": "",
+      "id": "313b3",
+      "name": "wheels_new.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": true,
+      "hasBuiltinLOD": true,
+      "options": [
+        {
+          "screenRatio": 0.01,
+          "faceCount": 1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e5ce08e9-ac60-4401-9cc0-122aab36debc@45fb8",
+        "e5ce08e9-ac60-4401-9cc0-122aab36debc@7fabf",
+        "e5ce08e9-ac60-4401-9cc0-122aab36debc@fce69",
+        "e5ce08e9-ac60-4401-9cc0-122aab36debc@f3e3b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e5ce08e9-ac60-4401-9cc0-122aab36debc@313b3"
+      ]
+    },
+    "meshOptimize": {
+      "enable": false
+    },
+    "meshCompress": {
+      "enable": false,
+      "encode": false
+    }
+  }
+}
